@@ -1,0 +1,7 @@
+#!/path/to/rarun2
+program=challenge_path
+stdin=./input.txt
+stdout=./output.txt
+libpath=/home/trthanh/Desktop/DoAn-LTAT/bof_aeg/glibc-all-in-one/libs/2.23-0ubuntu11.3_amd64/
+preload=/home/trthanh/Desktop/DoAn-LTAT/bof_aeg/glibc-all-in-one/libs/2.23-0ubuntu11.3_amd64/ld-linux-x86-64.so.2
+aslr=no
