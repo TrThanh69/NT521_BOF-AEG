@@ -12,7 +12,9 @@
 
 python3 bof_aeg.py challenge_path
 
-Ref: BofAEG: Automated Stack Buffer Overflow Vulnerability Detection and Exploit Generation Based on Symbolic Execution and Dynamic Analysis
+## Ref
+
+BofAEG: Automated Stack Buffer Overflow Vulnerability Detection and Exploit Generation Based on Symbolic Execution and Dynamic Analysis
 
 
 
