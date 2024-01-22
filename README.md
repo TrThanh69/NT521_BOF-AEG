@@ -1,3 +1,9 @@
+## Members
+| Member | MSSV | Task | 
+| --- | ---| --- |
+| La Ngoc Anh |  20521065 | Leader |
+| Tran Dai Duong | 20521226 | Report |
+| Truong Dinh Trong Thanh | 20520766 | Demo |
 ## Requirement
 
 * [angr](https://github.com/angr/angr )
